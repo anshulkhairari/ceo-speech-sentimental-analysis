@@ -1,4 +1,4 @@
-# ceo-speech-sentimental-analysis
+# CEO Speech Sentimental Analysis
 
 Many companies share their financial results for a quarter or a year through earning calls and reports. 
 It is a way to communicate with shareholders about the company’s performance and strategy for the future. 
